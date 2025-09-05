@@ -38,4 +38,6 @@ nmap -sV -A -T5 <IP_SERVIDOR>
 python3 vane_dos.py
 ifconfig
 
-O experimento confirmou que ataques de brute force podem ser facilmente detectados através de análise de logs. A mitigação via firewall demonstrou eficácia em manter a disponibilidade do serviço. O exercício reforça a importância de monitoramento contínuo, análise de padrões de ataque e implementação de mecanismos de defesa automatizados.
+O experimento confirmou que ataques de brute force podem ser facilmente detectados através de análise de logs.
+A mitigação via firewall demonstrou eficácia em manter a disponibilidade do serviço.
+ O exercício reforça a importância de monitoramento contínuo, análise de padrões de ataque e implementação de mecanismos de defesa automatizados.

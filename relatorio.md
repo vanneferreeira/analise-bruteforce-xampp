@@ -28,7 +28,7 @@ Em 05/09/2025, foi realizada uma simulação de ataque **brute force** contra um
 | 4:43   | Análise dos logs identificando padrões de brute force |
 | 5:02   | Aplicação do bloqueio via firewall no Windows Server |
 | 5:08   | Teste pós-mitigação: serviço permaneceu acessível |
-| 5:310   | Finalização do experimento e documentação |
+| 5:10   | Finalização do experimento e documentação |
 
 ## 4. Descrição Técnica
 ### 4.1 Reconhecimento
